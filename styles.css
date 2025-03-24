@@ -177,6 +177,7 @@ ul li {
     text-decoration: none;
     color: #007bff;
     font-weight: bold;
+    
 }
 button.explore-btn {
     width: 90%;
@@ -277,6 +278,13 @@ footer {
     footer {
         font-size: 14px;
     }
+    .about-container {
+        display: grid !important;
+    }
+    .cover-section {
+        background-image: url('Media/Mobile.png') !important; 
+    }
+    
 }
 
 /* Mobile */
